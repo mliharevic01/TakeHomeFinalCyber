@@ -1,0 +1,7 @@
+#Sat Dec 10 16:56:21 EST 2016
+base.0=C\:\\Users\\mliha\\Documents\\AndroidStudioProjects\\MalTicTacToe1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_cbe980b282ec4c091e4933e0d678913bbcaa83cf
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\mliha\\Documents\\AndroidStudioProjects\\MalTicTacToe1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_3d864319d55a2a154f3c5af78cebffcb80679d69\\classes.dex
+base.1=C\:\\Users\\mliha\\Documents\\AndroidStudioProjects\\MalTicTacToe1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_3d864319d55a2a154f3c5af78cebffcb80679d69
+file.0=C\:\\Users\\mliha\\Documents\\AndroidStudioProjects\\MalTicTacToe1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_cbe980b282ec4c091e4933e0d678913bbcaa83cf\\classes.dex

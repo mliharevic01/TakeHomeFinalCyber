@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\mliha\Documents\AndroidStudioProjects\MalTicTacToe1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="74b632f0433f5644181111080272df6bc09e402e">
+        <dex dex="C:\Users\mliha\Documents\AndroidStudioProjects\MalTicTacToe1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_3d864319d55a2a154f3c5af78cebffcb80679d69\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mliha\Android SDK\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="C:\Users\mliha\Documents\AndroidStudioProjects\MalTicTacToe1\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-19.1.0_3233d73e2d7d117dbf60ac9cc06a910333787a80\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mliha\Documents\AndroidStudioProjects\MalTicTacToe1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="4774111301ddce4ad11314a589375867e280e819">
+        <dex dex="C:\Users\mliha\Documents\AndroidStudioProjects\MalTicTacToe1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_cbe980b282ec4c091e4933e0d678913bbcaa83cf\classes.dex" />
+    </item>
+
+</items>
